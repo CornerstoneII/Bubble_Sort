@@ -6,6 +6,18 @@ This project consists of an algorithm for sorting known as the bubble sort metho
 
 Take an array of numbers and sort them by iterating through the array sorting numbers next to each other
 
+## Live Demo
+
+[Demo-Link](#)
+
+## Install
+
+- [Download](Clone the repository to your machine)
+
+- $ git clone https://github.com/CornerstoneII/Bubble_Sort.git
+
+- Navigate to the project folder and execute "ruby bubble_sort.rb".
+
 
 ## Built With
 
