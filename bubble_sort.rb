@@ -37,7 +37,7 @@ def bubble_sort_by(array)
   array
 end
 
-a = ["Yo mah G", "hi", "hello", "ya"]
+a = ['Yo mah G', 'hi', 'hello', 'ya']
 
 switch_result = bubble_sort_by(a) do |left, right|
   left.length - right.length
