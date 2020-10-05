@@ -1,6 +1,6 @@
 # Bubble Sort
 This project consists of an algorithm for sorting known as the bubble sort method.
-
+![screenshot](./images/bubble_sort_by.png)
 
 ## Project Requirements
 
@@ -8,7 +8,7 @@ Take an array of numbers and sort them by iterating through the array sorting nu
 
 ## Live Demo
 
-[Demo-Link](#)
+[Demo-Link](https://repl.it/@OseunIyadi/StaleOlivedrabRobots)
 
 ## Install
 
